@@ -33,10 +33,16 @@ A bar chart combined with a line chart that shows:
 - The number of registrations per month.
 - The number of conversions from registration to trial in each registration month.
 
+![image](https://github.com/user-attachments/assets/393b5bdd-faca-4e93-b3b4-441072d9a53e)
+
+
 ### 3. Average Days from Registration to Payment
 A line chart that presents:
 - The average number of days taken by users from the registration date to their first payment.
 - This is broken down by the month of registration to understand seasonal trends or delays in user behavior.
+
+![image](https://github.com/user-attachments/assets/ca5b461c-8878-40b5-8b50-206e1679a8f7)
+
 
 ### 4. User Conversion Funnel
 A funnel chart that visualizes the step-by-step journey of users through the following stages:
@@ -48,6 +54,8 @@ A funnel chart that visualizes the step-by-step journey of users through the fol
 - **First Payment**
 
 The chart displays both the absolute number of users completing each step and the relative conversion rates, providing a comprehensive view of the user journey.
+
+![image](https://github.com/user-attachments/assets/4df61f24-3950-4d7c-b602-e4fbcffcdb7d)
 
 ## Live Report
 
@@ -67,8 +75,3 @@ Alternatively, you can explore the interactive dashboard directly on Tableau Pub
 ## Conclusion
 
 This project showcases a deep dive into the user journey from registration to first payment, providing valuable insights into conversion rates and the effectiveness of the user onboarding process. The use of advanced Tableau features enhances the clarity and impact of the visualizations, making this a powerful tool for understanding user behavior.
-
-## Acknowledgments
-
-- Special thanks to the authors of the dataset for providing the raw data used in this analysis.
-- Kudos to the Tableau community for inspiring advanced chart techniques that were applied in this project.
